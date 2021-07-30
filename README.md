@@ -1,16 +1,18 @@
-# neumorphic_signin_signup
+# Neumorphic SignIn And SignUp
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/MRiZpwdy1CM)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Neumorphic Login UI using flutter,This project consist of two screen, SignIn Screen and SignUp Screen and no packages are used for neumorphism.
 
-A few resources to get you started if this is your first Flutter project:
+### :heart: Found this project useful?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+If you found this project useful, then please consider giving it a :star: on Github and follow me on GitHub.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://www.buymeacoffee.com/iamsayuj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+
+### Neumorphic SignIn And SignUp UI
+
+![App UI](/neumorphicgif.gif)
+![App UI](/neumoallscr.png)
+![App UI](/neumophicthumb.png)
